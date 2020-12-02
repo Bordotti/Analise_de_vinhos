@@ -6,7 +6,7 @@ Para esta análise foram utilizados o dataset winemag-data-130k-v2.csv encontrad
 ## Informações do dataset
 São disponibilizados 130 mil reviews de vinho com 13 colunas.
 Abaixo é apresentado as colunas disponíveis e seus tipos identificados na análise:
-    'country': 'Categórica Nominal',
+   ` 'country': 'Categórica Nominal',
     'description': 'Categórica Nominal',
     'designation': 'Categórica Nominal',
     'points': 'Numérica Discreta',
@@ -18,12 +18,12 @@ Abaixo é apresentado as colunas disponíveis e seus tipos identificados na aná
     'taster_twitter_handle': 'Categórica Nominal',
     'title': 'Categórica Nominal',
     'variety': 'Categórica Nominal',
-    'winery': 'Categórica Nominal'
+    'winery': 'Categórica Nominal'`
 
 ## Requerimentos de sistema
-python 3.8
-pyarrow
-numpy
-pyspark
-pandas
-matplotlib
+python 3.8\n
+pyarrow\n
+numpy\n
+pyspark\n
+pandas\n
+matplotlib\n
